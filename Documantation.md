@@ -1,9 +1,8 @@
 # Documantation 
 ## Question theorique :
 
-- Les technologie utiliser sont le c#, .net core 3.1, git, azure devopps, visual studio code
-- La tracabiliter est est l'habileter d'un logiciel a donne retracer les changement fait a un projet, de voire et comprendre les chnagement fait et la cpaciter a revenir en arriere si les changment ne sont pas adequat. Azure devopps rend tout ces chose plus simple en donnant un interface graphique facile a utiliser qui nous permet de faire la tracabiliter et encore plus comme l'automatisation
-- nous devons retrouver une generation d'artefact a partir d'un gestionaire de source et executer les test qui sont fait automatiquement lorsque qu'il y a des changement donc lorsque l'on "commit" ont fait un "build" et on lance les test pour voire si les changement apporter ne soit pas regressif.
+- Les util DevOpps sont tres utile pour facilliter la comprehension entre les diffirente equipe d'un meme projet puisque tout est visuel et facile a comprendre. Les outil permette aussi de creer plusieur instance d'une meme application pour permettre au developpeur d'ajouter des nouvelle focntion sans risque de detruire les program de production. De plus meme si ont voulais pousser des changement il faut l'approbation de quelqu'un d'autre. Donc tout le monde est capable de comprendre ou ont est rendu et qu'es qui faut faire et si tout est bien fait la plus part des chose ce font tout automatiquement. Ce qui reduit le risuqe des erreur humaine.
+- 
 
 ## Utilisation pipeline (facon manuel) :
 
